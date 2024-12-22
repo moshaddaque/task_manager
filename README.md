@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshorts
+<img src="https://github.com/moshaddaque/task_manager/blob/master/screenshots/home.png" height="200px"/>
+<img src="https://github.com/moshaddaque/task_manager/blob/master/screenshots/complete.png" height="200px"/>
+<img src="https://github.com/moshaddaque/task_manager/blob/master/screenshots/add_task.png" height="200px"/>
 
 This project is a starting point for a Flutter application.
 
